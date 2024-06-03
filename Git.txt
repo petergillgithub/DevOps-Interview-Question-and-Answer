@@ -1,0 +1,2 @@
+# What is GIT?
+Git is a distributed version control system that allows developers to manage and track changes in their codebase efficiently. It was created by Linus Torvalds in 2005 and has since become one of the most widely used version control systems in the software development industry.
